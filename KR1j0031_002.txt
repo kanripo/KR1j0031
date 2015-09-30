@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 復古編
-#+DATE: 2015-09-23 09:41:12
-#+PROPERTY: JUAN 1
+#+DATE: 2015-09-12 00:40:25.329529
+#+PROPERTY: ID KR1j0031
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 2
+#+PROPERTY: FILE SB09n0689-002復古編-序.
 <pb:KR1j0031_SBCK_002-1a>¶
 復古編序¶
 君尊臣卑父坐子立此¶
@@ -77,4 +81,3 @@
 <pb:KR1j0031_SBCK_002-7a>¶
 德郎陳&KR1493;序¶
 <pb:KR1j0031_SBCK_002-7b>¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 復古編
-#+DATE: 2015-09-23 09:41:12
-#+PROPERTY: JUAN 0
+#+DATE: 2015-09-12 00:40:25.272260
+#+PROPERTY: ID KR1j0031
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB09n0689-001復古編-上.
 <pb:KR1j0031_SBCK_001-1a>¶
 (&KR0040;也从水蒙/別作霥非<折 t="33"/>&KR3013;生衣也/从酉冡別作)¶
 (䴿/非)¶
@@ -998,4 +1002,3 @@
 <pb:KR1j0031_SBCK_001-104a>¶
 <pb:KR1j0031_SBCK_001-105a>¶
 <pb:KR1j0031_SBCK_001-106a>¶
-

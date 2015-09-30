@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 復古編
-#+DATE: 2015-09-23 09:41:12
-#+PROPERTY: JUAN 3
+#+DATE: 2015-09-12 00:40:25.435634
+#+PROPERTY: ID KR1j0031
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 4
+#+PROPERTY: FILE SB09n0689-004復古編-後序.
 <pb:KR1j0031_SBCK_004-1a>¶
 後序¶
 程子曰學之不可以不專也涉¶
@@ -100,4 +104,3 @@
 　指辵(踔)爲之繞宀(緜)爲両立若此者衆¶
 　何其誤哉不遇指&KR0047;曷从正徹吳興張¶
 　有謙中號眞靜翁于國朝徐鼎臣校定¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 復古編
-#+DATE: 2015-09-23 09:41:12
-#+PROPERTY: JUAN 2
+#+DATE: 2015-09-12 00:40:25.369545
+#+PROPERTY: ID KR1j0031
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 3
+#+PROPERTY: FILE SB09n0689-003復古編-下.
 <pb:KR1j0031_SBCK_003-1a>¶
 復古編下　吳興張有¶
 　入聲　聯緜字¶
@@ -1119,4 +1123,3 @@
 <pb:KR1j0031_SBCK_003-113a>¶
 <pb:KR1j0031_SBCK_003-114a>¶
 <pb:KR1j0031_SBCK_003-115a>¶
-
